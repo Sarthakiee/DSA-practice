@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0001-two-sum) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sarthakiee/DSA-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Tree
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
 ## Math
