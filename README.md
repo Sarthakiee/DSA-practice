@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sarthakiee/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarthakiee/DSA-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Sarthakiee/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/1009-complement-of-base-10-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sarthakiee/DSA-practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
