@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sarthakiee/DSA-practice/tree/master/0014-longest-common-prefix) |
+| [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakiee/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sarthakiee/DSA-practice/tree/master/0217-contains-duplicate) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
 | [1009-complement-of-base-10-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sarthakiee/DSA-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
