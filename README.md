@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/Sarthakiee/DSA-practice/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sarthakiee/DSA-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarthakiee/DSA-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
+| [0504-base-7](https://github.com/Sarthakiee/DSA-practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarthakiee/DSA-practice/tree/master/0728-self-dividing-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
