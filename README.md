@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Math
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sarthakiee/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0219-contains-duplicate-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
