@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sarthakiee/DSA-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Tree
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Math
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Sarthakiee/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Recursion
 |  |
