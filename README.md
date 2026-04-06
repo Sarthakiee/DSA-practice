@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Sarthakiee/DSA-practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Sarthakiee/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sarthakiee/DSA-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sarthakiee/DSA-practice/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/Sarthakiee/DSA-practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarthakiee/DSA-practice/tree/master/0728-self-dividing-numbers) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Sarthakiee/DSA-practice/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -158,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Sarthakiee/DSA-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 | [1009-complement-of-base-10-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sarthakiee/DSA-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Trie
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakiee/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
