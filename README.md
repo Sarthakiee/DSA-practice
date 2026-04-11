@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthakiee/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarthakiee/DSA-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Array
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Sarthakiee/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0015-3sum) |
 | [0078-subsets](https://github.com/Sarthakiee/DSA-practice/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthakiee/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sarthakiee/DSA-practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
