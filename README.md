@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthakiee/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Sarthakiee/DSA-practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarthakiee/DSA-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Array
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Sarthakiee/DSA-practice/tree/master/0338-counting-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/1009-complement-of-base-10-integer) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sarthakiee/DSA-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Trie
