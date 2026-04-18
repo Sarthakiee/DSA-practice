@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthakiee/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Sarthakiee/DSA-practice/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Sarthakiee/DSA-practice/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0078-subsets](https://github.com/Sarthakiee/DSA-practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sarthakiee/DSA-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sarthakiee/DSA-practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sarthakiee/DSA-practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Sarthakiee/DSA-practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Sarthakiee/DSA-practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sarthakiee/DSA-practice/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sarthakiee/DSA-practice/tree/master/0234-palindrome-linked-list) |
@@ -227,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Sarthakiee/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
