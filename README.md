@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sarthakiee/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sarthakiee/DSA-practice/tree/master/0011-container-with-most-water) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Sarthakiee/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 ## Sorting
 |  |
 | ------- |
