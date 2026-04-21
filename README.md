@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarthakiee/DSA-practice/tree/master/0728-self-dividing-numbers) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1688-count-of-matches-in-tournament](https://github.com/Sarthakiee/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
+| [1688-count-of-matches-in-tournament](https://github.com/Sarthakiee/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 ## Divide and Conquer
 |  |
 | ------- |
