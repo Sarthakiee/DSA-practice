@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sarthakiee/DSA-practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sarthakiee/DSA-practice/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Sarthakiee/DSA-practice/tree/master/0338-counting-bits) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Sarthakiee/DSA-practice/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
