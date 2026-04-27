@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sarthakiee/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Sarthakiee/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0735-asteroid-collision](https://github.com/Sarthakiee/DSA-practice/tree/master/0735-asteroid-collision) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Sarthakiee/DSA-practice/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sarthakiee/DSA-practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Sarthakiee/DSA-practice/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Bit Manipulation
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Sarthakiee/DSA-practice/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sarthakiee/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
 ## Divide and Conquer
 |  |
