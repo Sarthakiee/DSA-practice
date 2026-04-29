@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Sarthakiee/DSA-practice/tree/master/0504-base-7) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sarthakiee/DSA-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarthakiee/DSA-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0796-rotate-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -301,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sarthakiee/DSA-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
