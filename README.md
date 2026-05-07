@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sarthakiee/DSA-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Sarthakiee/DSA-practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0796-rotate-string) |
+| [0925-long-pressed-name](https://github.com/Sarthakiee/DSA-practice/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Sarthakiee/DSA-practice/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sarthakiee/DSA-practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Sarthakiee/DSA-practice/tree/master/0876-middle-of-the-linked-list) |
+| [0925-long-pressed-name](https://github.com/Sarthakiee/DSA-practice/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Sarthakiee/DSA-practice/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
