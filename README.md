@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Sarthakiee/DSA-practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarthakiee/DSA-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Tree
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarthakiee/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sarthakiee/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarthakiee/DSA-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/1009-complement-of-base-10-integer) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sarthakiee/DSA-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Sarthakiee/DSA-practice/tree/master/2220-minimum-bit-flips-to-convert-number) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarthakiee/DSA-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Trie
 |  |
 | ------- |
