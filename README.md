@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/Sarthakiee/DSA-practice/tree/master/0605-can-place-flowers) |
 | [0735-asteroid-collision](https://github.com/Sarthakiee/DSA-practice/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/Sarthakiee/DSA-practice/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Sarthakiee/DSA-practice/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Sarthakiee/DSA-practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Sarthakiee/DSA-practice/tree/master/0605-can-place-flowers) |
+| [0860-lemonade-change](https://github.com/Sarthakiee/DSA-practice/tree/master/0860-lemonade-change) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarthakiee/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
