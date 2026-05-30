@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sarthakiee/DSA-practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Sarthakiee/DSA-practice/tree/master/0292-nim-game) |
 | [0504-base-7](https://github.com/Sarthakiee/DSA-practice/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Sarthakiee/DSA-practice/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/Sarthakiee/DSA-practice/tree/master/0728-self-dividing-numbers) |
@@ -342,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Sarthakiee/DSA-practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/Sarthakiee/DSA-practice/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Sarthakiee/DSA-practice/tree/master/1757-recyclable-and-low-fat-products) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sarthakiee/DSA-practice/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sarthakiee/DSA-practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
