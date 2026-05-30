@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Sarthakiee/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarthakiee/DSA-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Math
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sarthakiee/DSA-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sarthakiee/DSA-practice/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
 |  |
