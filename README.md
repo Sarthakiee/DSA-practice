@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Sarthakiee/DSA-practice/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2104-sum-of-subarray-ranges](https://github.com/Sarthakiee/DSA-practice/tree/master/2104-sum-of-subarray-ranges) |
+| [2574-left-and-right-sum-differences](https://github.com/Sarthakiee/DSA-practice/tree/master/2574-left-and-right-sum-differences) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Sarthakiee/DSA-practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sarthakiee/DSA-practice/tree/master/0238-product-of-array-except-self) |
+| [2574-left-and-right-sum-differences](https://github.com/Sarthakiee/DSA-practice/tree/master/2574-left-and-right-sum-differences) |
 ## Combinatorics
 |  |
 | ------- |
