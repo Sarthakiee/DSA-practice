@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/Sarthakiee/DSA-practice/tree/master/1903-largest-odd-number-in-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sarthakiee/DSA-practice/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3838-weighted-word-mapping](https://github.com/Sarthakiee/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Sarthakiee/DSA-practice/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sarthakiee/DSA-practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Sarthakiee/DSA-practice/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3838-weighted-word-mapping](https://github.com/Sarthakiee/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Math
 |  |
 | ------- |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sarthakiee/DSA-practice/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/Sarthakiee/DSA-practice/tree/master/0735-asteroid-collision) |
 | [1688-count-of-matches-in-tournament](https://github.com/Sarthakiee/DSA-practice/tree/master/1688-count-of-matches-in-tournament) |
+| [3838-weighted-word-mapping](https://github.com/Sarthakiee/DSA-practice/tree/master/3838-weighted-word-mapping) |
 ## Divide and Conquer
 |  |
 | ------- |
