@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sarthakiee/DSA-practice/tree/master/0860-lemonade-change) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sarthakiee/DSA-practice/tree/master/1266-minimum-time-visiting-all-points) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sarthakiee/DSA-practice/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sarthakiee/DSA-practice/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Sarthakiee/DSA-practice/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sarthakiee/DSA-practice/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Recursion
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sarthakiee/DSA-practice/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sarthakiee/DSA-practice/tree/master/0451-sort-characters-by-frequency) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sarthakiee/DSA-practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
